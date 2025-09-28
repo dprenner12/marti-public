@@ -5279,6 +5279,19 @@
       "Longitude": 16.276404
     },
     {
+      "Spieldatum": "2025-09-27T12:30:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "SR Donaufeld 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2025-09-27T13:00:00",
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Inzersdorf",
@@ -5290,19 +5303,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2025-09-27T13:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "SR Donaufeld 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2025-09-27T14:00:00",
@@ -5505,12 +5505,12 @@
       "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-09-27T16:00:00",
@@ -5537,19 +5537,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2025-09-27T16:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2025-09-27T16:00:00",
@@ -5735,19 +5722,6 @@
     },
     {
       "Spieldatum": "2025-09-27T19:00:00",
-      "Heimmannschaft": "FC Hernalser Spartans",
-      "Gastmannschaft": "GEPS 20-U18",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2025-09-27T19:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
       "Typ": "Männer",
@@ -5804,19 +5778,6 @@
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2025-09-28T09:45:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
       "Spielort": "Polizei Sportanlage",
       "Spielort Straße": "Dampfschiffhaufen",
       "Spielort PLZ": 1220,
@@ -5934,19 +5895,6 @@
       "Gastmannschaft": "GEPS 21 FC 1b",
       "Typ": "Frauen",
       "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-09-28T12:00:00",
-      "Heimmannschaft": "Stadlau",
-      "Gastmannschaft": "DSG Paulaner Wieden 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
       "Spielort": "Stadlau",
       "Spielort Straße": "Erzherzog Karl Str. 108",
       "Spielort PLZ": 1220,
@@ -11416,6 +11364,19 @@
     },
     {
       "Spieldatum": "2025-11-01T13:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Prater SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-G. 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2025-11-01T13:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Inzersdorf",
       "Typ": "Männer",
@@ -11439,19 +11400,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2025-11-01T14:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-G. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2025-11-01T14:00:00",
@@ -17734,6 +17682,19 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
+      "Heimmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "FK Adige",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "Wiener Sport-Club 1b",
       "Gastmannschaft": "Sportunion Mauer 1b",
       "Typ": "Männer",
@@ -18862,6 +18823,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.252577,
       "Longitude": 16.392631
+    },
+    {
+      "Spieldatum": "2026-03-22T23:00:00",
+      "Heimmannschaft": "FK Adige",
+      "Gastmannschaft": "Wiener Sport-Club 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -30136,19 +30110,6 @@
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleiteng. 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "WBC-IX",
       "Typ": "Männer",
@@ -30562,6 +30523,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-06-14T23:00:01",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleiteng. 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     }
   ]
 }
