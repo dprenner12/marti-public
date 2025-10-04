@@ -1544,8 +1544,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-08-31T14:00:00",
@@ -2753,8 +2753,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-09-07T15:30:00",
@@ -4404,8 +4404,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-09-20T15:15:00",
@@ -5176,19 +5176,6 @@
     },
     {
       "Spieldatum": "2025-09-26T18:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "UFK Schwemm",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2025-09-26T18:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "LAC-Inter",
       "Typ": "Männer",
@@ -5717,8 +5704,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-09-27T19:00:00",
@@ -6367,8 +6354,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-10-03T19:30:00",
@@ -6610,12 +6597,12 @@
       "Gastmannschaft": "SK Rapid",
       "Typ": "Frauen",
       "Liga": "2. Frauen Bundesliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
       "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
     },
     {
       "Spieldatum": "2025-10-04T14:00:00",
@@ -6853,19 +6840,6 @@
     },
     {
       "Spieldatum": "2025-10-04T16:00:00",
-      "Heimmannschaft": "Wollers Komet",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2025-10-04T16:00:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "TWL Elektra 1b",
       "Typ": "Männer",
@@ -7048,32 +7022,6 @@
     },
     {
       "Spieldatum": "2025-10-04T18:00:00",
-      "Heimmannschaft": "FC Brigittenau",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2025-10-04T18:00:00",
-      "Heimmannschaft": "Altera Porta 1d",
-      "Gastmannschaft": "SU Schönbrunn 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2025-10-04T18:00:00",
       "Heimmannschaft": "SR Donaufeld 1b",
       "Gastmannschaft": "Marianum",
       "Typ": "Männer",
@@ -7162,6 +7110,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2025-10-05T10:00:00",
+      "Heimmannschaft": "Bozok Wien",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-10-05T10:00:00",
@@ -7438,6 +7399,19 @@
     },
     {
       "Spieldatum": "2025-10-05T16:00:00",
+      "Heimmannschaft": "Bozok Wien",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2025-10-05T16:00:00",
       "Heimmannschaft": "Real Wien",
       "Gastmannschaft": "SC Kopten",
       "Typ": "Männer",
@@ -7448,19 +7422,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2025-10-05T16:00:00",
-      "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-10-05T16:00:00",
@@ -7526,19 +7487,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2025-10-05T18:00:00",
-      "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-10-05T23:00:00",
@@ -8083,8 +8031,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-10-11T19:00:00",
@@ -9795,12 +9743,12 @@
       "Gastmannschaft": "SVK Wildcats Elektro Service Fuchs",
       "Typ": "Frauen",
       "Liga": "2. Frauen Bundesliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
       "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
     },
     {
       "Spieldatum": "2025-10-19T14:00:00",
@@ -10098,8 +10046,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-10-25T11:00:00",
@@ -11143,19 +11091,6 @@
     },
     {
       "Spieldatum": "2025-10-31T18:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SKU Ertl Glas Amstetten",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2025-10-31T18:00:00",
       "Heimmannschaft": "Stripfing",
       "Gastmannschaft": "SK Rapid II",
       "Typ": "Männer",
@@ -11530,6 +11465,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2025-11-01T14:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SKU Ertl Glas Amstetten",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2025-11-01T15:00:00",
@@ -12260,6 +12208,19 @@
       "Longitude": 16.392631
     },
     {
+      "Spieldatum": "2025-11-05T19:30:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "UFK Schwemm",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2025-11-07T18:00:00",
       "Heimmannschaft": "SC Ostbahn XI",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -12271,19 +12232,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2025-11-07T18:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "Young Violets Austria Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-11-07T18:00:00",
@@ -12499,12 +12447,12 @@
       "Gastmannschaft": "SV Hirter Kraig",
       "Typ": "Frauen",
       "Liga": "2. Frauen Bundesliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
       "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
     },
     {
       "Spieldatum": "2025-11-08T14:00:00",
@@ -13002,6 +12950,19 @@
     },
     {
       "Spieldatum": "2025-11-09T10:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "Young Violets Austria Wien",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2025-11-09T10:30:00",
       "Heimmannschaft": "SK Slovan HAC",
       "Gastmannschaft": "FAC Wien Amat.",
       "Typ": "Männer",
@@ -13140,8 +13101,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2025-11-09T15:00:00",
@@ -14263,19 +14224,6 @@
     },
     {
       "Spieldatum": "2025-11-21T18:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SK Rapid II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2025-11-21T18:00:00",
       "Heimmannschaft": "Stripfing",
       "Gastmannschaft": "FAC Wien",
       "Typ": "Männer",
@@ -14338,6 +14286,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2025-11-21T20:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SK Rapid II",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2025-11-22T10:00:00",
@@ -15402,8 +15363,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-02-15T00:00:00",
@@ -16845,8 +16806,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-03-15T00:00:00",
@@ -17820,8 +17781,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -19185,8 +19146,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-03-29T00:00:00",
@@ -20147,8 +20108,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -22656,8 +22617,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -22851,8 +22812,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-04-26T16:15:00",
@@ -25022,8 +24983,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -25204,8 +25165,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-10T16:15:00",
@@ -26127,8 +26088,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -26348,8 +26309,8 @@
       "Spielort Straße": "Gerhard Hanappi Platz 1",
       "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 47.32579231609051,
-      "Longitude": 13.822174072265623
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-17T00:00:00",
