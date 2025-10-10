@@ -7489,19 +7489,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2025-10-10T18:30:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "GEPS 21 FC",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
-    },
-    {
       "Spieldatum": "2025-10-10T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "FC Marchfeld Donauauen",
@@ -7539,19 +7526,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2025-10-10T19:45:00",
-      "Heimmannschaft": "SU Schönbrunn 1b",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2025-10-10T20:00:00",
@@ -9791,6 +9765,19 @@
     },
     {
       "Spieldatum": "2025-10-19T16:00:00",
+      "Heimmannschaft": "Bozok Wien",
+      "Gastmannschaft": "Prater SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2025-10-19T16:00:00",
       "Heimmannschaft": "Real Wien",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
@@ -9879,19 +9866,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
-    },
-    {
-      "Spieldatum": "2025-10-19T18:00:00",
-      "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-10-19T23:00:00",
@@ -11364,19 +11338,6 @@
     },
     {
       "Spieldatum": "2025-11-01T14:00:00",
-      "Heimmannschaft": "LAC-Inter",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2025-11-01T14:00:00",
       "Heimmannschaft": "SV Dinamo Helfort",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -11959,6 +11920,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2025-11-02T14:00:00",
+      "Heimmannschaft": "LAC-Inter",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2025-11-02T14:15:00",
