@@ -3096,19 +3096,6 @@
     },
     {
       "Spieldatum": "2025-09-13T14:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-09-13T14:00:00",
       "Heimmannschaft": "RB Jedlesee",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -7841,19 +7828,6 @@
     },
     {
       "Spieldatum": "2025-10-11T16:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-10-11T16:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "FC Bhf. Favoriten",
       "Typ": "Männer",
@@ -8257,19 +8231,6 @@
     },
     {
       "Spieldatum": "2025-10-12T14:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "SC Großfeld",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2025-10-12T14:00:00",
       "Heimmannschaft": "USC Landhaus 1b",
       "Gastmannschaft": "FC Altera Porta",
       "Typ": "Frauen",
@@ -8426,19 +8387,6 @@
     },
     {
       "Spieldatum": "2025-10-12T16:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 1b",
-      "Gastmannschaft": "DSG Paulaner Wieden 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2025-10-12T16:00:00",
       "Heimmannschaft": "Marianum",
       "Gastmannschaft": "Gartenstadt",
       "Typ": "Männer",
@@ -8592,19 +8540,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-10-12T21:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-10-17T18:00:00",
@@ -9946,19 +9881,6 @@
       "Longitude": 16.3216495513916
     },
     {
-      "Spieldatum": "2025-10-24T19:00:00",
-      "Heimmannschaft": "SV Donau",
-      "Gastmannschaft": "Wiener Sport-Club",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2025-10-24T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SV Klöcher Bau Oberwart",
@@ -10477,6 +10399,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2025-10-25T17:00:00",
+      "Heimmannschaft": "SV Donau",
+      "Gastmannschaft": "Wiener Sport-Club",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2025-10-25T18:00:00",
@@ -11036,6 +10971,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
+    },
+    {
+      "Spieldatum": "2025-10-28T20:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Elite",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2025-10-31T18:00:00",
@@ -12871,6 +12819,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2025-11-08T20:15:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SKN St. Pölten Frauen",
+      "Typ": "Frauen",
+      "Liga": "ADMIRAL Frauen Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
       "Spieldatum": "2025-11-09T10:00:00",
       "Heimmannschaft": "FC Hernalser Spartans",
       "Gastmannschaft": "DSG Paulaner Wieden 1b",
@@ -13051,19 +13012,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19799058337352,
       "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2025-11-09T15:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SKN St. Pölten Frauen",
-      "Typ": "Frauen",
-      "Liga": "ADMIRAL Frauen Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2025-11-09T15:30:00",
@@ -13272,19 +13220,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2025-11-14T19:00:00",
-      "Heimmannschaft": "SV Donau",
-      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2025-11-14T19:30:00",
@@ -27663,6 +27598,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-05-29T19:30:00",
+      "Heimmannschaft": "SV Donau",
+      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-05-29T19:30:00",
