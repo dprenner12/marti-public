@@ -7126,19 +7126,6 @@
     },
     {
       "Spieldatum": "2025-10-05T10:00:00",
-      "Heimmannschaft": "LAC-Inter",
-      "Gastmannschaft": "Kapellerfeld 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2025-10-05T10:00:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
       "Typ": "Frauen",
@@ -9049,6 +9036,19 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2025-10-18T15:30:00",
+      "Heimmannschaft": "LAC-Inter",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
       "Spieldatum": "2025-10-18T15:45:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Margaretner AC",
@@ -9164,19 +9164,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2025-10-18T16:00:00",
-      "Heimmannschaft": "LAC-Inter",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2025-10-18T16:15:00",
@@ -9385,6 +9372,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.207304,
       "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2025-10-19T11:00:00",
+      "Heimmannschaft": "GEPS 20-U18",
+      "Gastmannschaft": "Altera Porta 1c",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2. Klasse ",
+      "Spielort": "WFV-21 Pichelwangergasse",
+      "Spielort Straße": "Pichelwangerg. 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.252577,
+      "Longitude": 16.392631
     },
     {
       "Spieldatum": "2025-10-19T11:00:00",
@@ -9648,19 +9648,6 @@
     },
     {
       "Spieldatum": "2025-10-19T14:00:00",
-      "Heimmannschaft": "Paulaner Wieden",
-      "Gastmannschaft": "Wiener Viktoria 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2025-10-19T14:00:00",
       "Heimmannschaft": "Wacker Wien",
       "Gastmannschaft": "Sportunion Mauer 1b",
       "Typ": "Männer",
@@ -9671,6 +9658,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2025-10-19T14:10:00",
+      "Heimmannschaft": "Paulaner Wieden",
+      "Gastmannschaft": "Wiener Viktoria 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2025-10-19T15:30:00",
@@ -9803,19 +9803,6 @@
       "Longitude": 16.265628
     },
     {
-      "Spieldatum": "2025-10-19T23:00:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "Altera Porta 1c",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
-    },
-    {
       "Spieldatum": "2025-10-24T18:00:00",
       "Heimmannschaft": "SC Ostbahn XI",
       "Gastmannschaft": "Gersthofer SV",
@@ -9868,19 +9855,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2025-10-24T19:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 1b",
-      "Gastmannschaft": "FC Hernalser Spartans",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
       "Spieldatum": "2025-10-24T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SV Klöcher Bau Oberwart",
@@ -9905,6 +9879,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2025-10-24T19:45:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 1b",
+      "Gastmannschaft": "FC Hernalser Spartans",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2. Klasse ",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2025-10-24T20:00:00",
@@ -13220,6 +13207,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2025-11-14T19:00:00",
+      "Heimmannschaft": "SV Donau",
+      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2025-11-14T19:30:00",
@@ -27598,19 +27598,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-29T19:30:00",
-      "Heimmannschaft": "SV Donau",
-      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-05-29T19:30:00",
