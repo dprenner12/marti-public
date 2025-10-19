@@ -8763,19 +8763,6 @@
       "Longitude": 16.425843
     },
     {
-      "Spieldatum": "2025-10-18T13:30:00",
-      "Heimmannschaft": "SU Schönbrunn 1b",
-      "Gastmannschaft": "DSG Los Andes FC 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
       "Spieldatum": "2025-10-18T13:45:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Margaretner AC",
@@ -9297,6 +9284,19 @@
     },
     {
       "Spieldatum": "2025-10-19T09:45:00",
+      "Heimmannschaft": "Young Violets Austria Wien U20",
+      "Gastmannschaft": "AKA Vorarlberg – SCR Altach",
+      "Typ": "Frauen",
+      "Liga": "Frauen Future League",
+      "Spielort": "Austria Mädchen AKA Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2025-10-19T09:45:00",
       "Heimmannschaft": "FC Mauerwerk Immo",
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
       "Typ": "Männer",
@@ -9320,19 +9320,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2025-10-19T10:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien U20",
-      "Gastmannschaft": "AKA Vorarlberg – SCR Altach",
-      "Typ": "Frauen",
-      "Liga": "Frauen Future League",
-      "Spielort": "Austria Mädchen AKA Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2025-10-19T10:00:00",
@@ -9372,19 +9359,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.207304,
       "Longitude": 16.428909
-    },
-    {
-      "Spieldatum": "2025-10-19T11:00:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "Altera Porta 1c",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
     },
     {
       "Spieldatum": "2025-10-19T11:00:00",
@@ -9595,19 +9569,6 @@
       "Longitude": 16.449018
     },
     {
-      "Spieldatum": "2025-10-19T13:45:00",
-      "Heimmannschaft": "Real Wien",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
-    },
-    {
       "Spieldatum": "2025-10-19T14:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Gipsy Kings Vienna",
@@ -9726,19 +9687,6 @@
     },
     {
       "Spieldatum": "2025-10-19T16:00:00",
-      "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2025-10-19T16:00:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
@@ -9762,19 +9710,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2025-10-19T16:10:00",
-      "Heimmannschaft": "DSG Paulaner Wieden 1b",
-      "Gastmannschaft": "GEPS 21 FC",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2025-10-19T16:15:00",
@@ -14240,7 +14175,7 @@
       "Heimmannschaft": "FCJ Alt-Ottakring",
       "Gastmannschaft": "Marswiese",
       "Typ": "Männer",
-      "Liga": "Oberliga B",
+      "Liga": "Oberliga B Reserve",
       "Spielort": "Kinkplatz - Austria 13",
       "Spielort Straße": "Kinkplatz",
       "Spielort PLZ": 1140,
@@ -14380,6 +14315,19 @@
     },
     {
       "Spieldatum": "2025-11-22T14:00:00",
+      "Heimmannschaft": "FCJ Alt-Ottakring",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2025-11-22T14:00:00",
       "Heimmannschaft": "Royal Persia",
       "Gastmannschaft": "Gartenstadt",
       "Typ": "Männer",
@@ -14390,19 +14338,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2025-11-22T14:00:00",
-      "Heimmannschaft": "FCJ Alt-Ottakring",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
     },
     {
       "Spieldatum": "2025-11-22T14:00:00",
@@ -15705,6 +15640,19 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2026-03-07T15:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "SC Mannswörth",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-03-07T15:30:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "SV Donau",
@@ -16262,19 +16210,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "SC Mannswörth",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -17811,6 +17746,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2026-03-21T15:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-03-21T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SV druckmittel.at Gloggnitz",
@@ -18407,19 +18355,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -20372,6 +20307,19 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2026-04-11T17:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Gersthofer SV",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-04-12T16:15:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -20864,19 +20812,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Gersthofer SV",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -22686,6 +22621,19 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-04-25T17:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-04-26T00:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "USC Landhaus",
@@ -23191,19 +23139,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -25039,6 +24974,19 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-05-09T17:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-05-10T00:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "SG SK Austria Klagenfurt",
@@ -25544,19 +25492,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "NAC",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -27340,6 +27275,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-05-22T18:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-05-22T19:00:00",
       "Heimmannschaft": "Wiener Sport-Club",
       "Gastmannschaft": "SC Neusiedl am See 1919",
@@ -27416,19 +27364,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-05-24T23:00:00",
@@ -27650,6 +27585,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-05-30T17:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -28134,19 +28082,6 @@
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
       "Heimmannschaft": "Gersthofer SV",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -28601,7 +28536,7 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-06-07T00:00:00",
+      "Spieldatum": "2026-06-06T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "TWL Elektra 1b",
       "Typ": "Männer",
@@ -29563,6 +29498,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-06-13T17:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-06-14T21:00:00",
       "Heimmannschaft": "Margaretner AC",
       "Gastmannschaft": "Srbija Wien",
@@ -30042,19 +29990,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
