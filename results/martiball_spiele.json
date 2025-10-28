@@ -10428,19 +10428,6 @@
     },
     {
       "Spieldatum": "2025-10-26T12:00:00",
-      "Heimmannschaft": "DSG Los Andes FC",
-      "Gastmannschaft": "DSG Paulaner Wieden 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-10-26T12:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Wacker Wien",
       "Typ": "Männer",
@@ -10770,32 +10757,6 @@
       "Gastmannschaft": "Vorwärts Wien 2016",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-10-26T21:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2025-10-26T23:00:00",
-      "Heimmannschaft": "Stadlau",
-      "Gastmannschaft": "GEPS 20-U18",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
       "Spielort": "Stadlau",
       "Spielort Straße": "Erzherzog Karl Str. 108",
       "Spielort PLZ": 1220,
@@ -28443,6 +28404,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-06-06T16:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "SV Horn",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-06-06T17:00:00",
