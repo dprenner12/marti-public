@@ -11182,6 +11182,19 @@
     },
     {
       "Spieldatum": "2025-11-01T15:00:00",
+      "Heimmannschaft": "GEPS 20-U18",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2. Klasse ",
+      "Spielort": "WFV-21 Pichelwangergasse",
+      "Spielort Straße": "Pichelwangerg. 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.252577,
+      "Longitude": 16.392631
+    },
+    {
+      "Spieldatum": "2025-11-01T15:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Inzersdorf",
       "Typ": "Männer",
@@ -11894,19 +11907,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2025-11-02T23:00:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
     },
     {
       "Spieldatum": "2025-11-05T19:30:00",
@@ -12988,6 +12988,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2025-11-14T17:30:00",
+      "Heimmannschaft": "Hirschstetten",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
       "Spieldatum": "2025-11-14T18:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "SC Mannswörth",
@@ -13025,6 +13038,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2025-11-14T19:30:00",
+      "Heimmannschaft": "Hirschstetten",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2025-11-14T19:30:00",
@@ -13129,19 +13155,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-11-15T12:45:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2025-11-15T13:00:00",
@@ -13350,19 +13363,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-11-15T15:00:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2025-11-15T15:00:00",
@@ -15289,19 +15289,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-02-28T14:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
       "Spieldatum": "2026-02-28T15:00:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SV Horn",
@@ -15313,6 +15300,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-03-01T12:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-03-01T23:00:00",
@@ -15588,7 +15588,7 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2026-03-08T14:00:00",
+      "Spieldatum": "2026-03-08T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -20139,19 +20139,6 @@
     },
     {
       "Spieldatum": "2026-04-11T16:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "SC Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-04-11T16:00:00",
       "Heimmannschaft": "Wiener Sport-Club",
       "Gastmannschaft": "SR Donaufeld",
       "Typ": "Männer",
@@ -20201,6 +20188,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-12T12:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "SC Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-04-12T16:15:00",
@@ -22453,19 +22453,6 @@
     },
     {
       "Spieldatum": "2026-04-25T16:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Cro-Vienna",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-04-25T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -22528,6 +22515,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19799058337352,
       "Longitude": 16.265119314193726
+    },
+    {
+      "Spieldatum": "2026-04-26T12:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Cro-Vienna",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-04-26T16:15:00",
@@ -24806,19 +24806,6 @@
     },
     {
       "Spieldatum": "2026-05-09T16:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "SV Essling",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-05-09T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
@@ -24881,6 +24868,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19799058337352,
       "Longitude": 16.265119314193726
+    },
+    {
+      "Spieldatum": "2026-05-10T12:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "SV Essling",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-05-10T16:15:00",
@@ -27432,19 +27432,6 @@
     },
     {
       "Spieldatum": "2026-05-30T16:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-05-30T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -27481,6 +27468,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-31T12:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Ankerbrot",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -29368,7 +29368,7 @@
       "Longitude": 16.377702
     },
     {
-      "Spieldatum": "2026-06-13T16:00:00",
+      "Spieldatum": "2026-06-12T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "TWL Elektra 1b",
       "Typ": "Männer",
