@@ -10896,19 +10896,6 @@
     },
     {
       "Spieldatum": "2025-11-01T12:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2025-11-01T12:00:00",
       "Heimmannschaft": "Kalksburg-Rodaun",
       "Gastmannschaft": "Wiener Akademik",
       "Typ": "Männer",
@@ -10945,19 +10932,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2025-11-01T12:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2025-11-01T12:45:00",
@@ -11179,19 +11153,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-11-01T15:00:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
     },
     {
       "Spieldatum": "2025-11-01T15:00:00",
@@ -14834,7 +14795,7 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2025-11-28T18:00:00",
+      "Spieldatum": "2025-11-28T20:30:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "Admira Wacker",
       "Typ": "Männer",
